@@ -9,5 +9,5 @@ MEMORY
 SECTIONS
 {
   .text : {*(.text)}>ram
-  .data : {*(.Giovanni)}>flash AT >ram
+  .data : {*(.data)}>flash AT >ram
 }
