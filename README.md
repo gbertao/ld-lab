@@ -6,3 +6,5 @@ There are some codes used to learn how to use the ld-script language.
 [exp 2](exp2): Allocate a memory block to store the binary.
 
 [exp 3](exp3): Allocate .data block.
+
+[exp 4](exp4): Write to read-only memory. (Nothing happened, the read-only attribute is ignored).
