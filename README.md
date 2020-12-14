@@ -10,3 +10,5 @@ There are some codes used to learn how to use the ld-script language.
 [exp 4](exp4): Write to read-only memory. (Nothing happened, the read-only attribute was ignored).
 
 [exp 5](exp5): Multi-part assembly combined at the link phase.
+
+[exp 6](exp6): Add bytes to print buffer.

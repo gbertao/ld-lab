@@ -1,0 +1,12 @@
+# exclude everything
+*
+
+# But not those files
+!.gitignore
+!README
+
+!exp*/*
+!*.sh
+!*.s
+!*.ld
+!Makefile
