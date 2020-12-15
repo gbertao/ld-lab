@@ -5,8 +5,9 @@
 !.gitignore
 !README
 
-!exp*/*
+!exp*/
 !*.sh
 !*.s
 !*.ld
+!*.c
 !Makefile
