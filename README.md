@@ -14,3 +14,5 @@ There are some codes used to learn how to use the ld-script language.
 [exp 6](exp6): Add bytes to print buffer.
 
 [exp 7](exp7): Re-write function's .text.
+
+[exp 8](exp8): Jump to external assembly.
