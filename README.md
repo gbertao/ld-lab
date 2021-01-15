@@ -16,3 +16,5 @@ There are some codes used to learn how to use the ld-script language.
 [exp 7](exp7): Re-write function's .text.
 
 [exp 8](exp8): Jump to external assembly.
+
+[exp 9](exp9): Compare binary and elf64-x86-64 output.
